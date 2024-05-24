@@ -1,0 +1,7 @@
+package-as: GearStatistics
+
+ignore:
+- .DS_Store
+- .gitignore
+- README.md
+- .idea

@@ -1,0 +1,21 @@
+## Interface: 11500
+## Title: GearStatisticsClassic |cff00aa0011.0.1|r
+## Notes: Gives a score for your gear and color codes gear based on your equipped gear.
+## Author: Dornonville
+## IconTexture: Interface\Icons\INV_Chest_Samurai
+## SavedVariables: GSC
+## Dependencies:
+## Version: 1.0.0
+## OptionalDeps:
+
+## X-CompatibleLocales: enUS, enGB
+## X-Category: Tooltip
+
+locales\localizationEn.lua
+
+variables.lua
+toolTip.lua
+
+GearStatisticsClassic.xml
+GSC_CharFrame.xml
+GSC_CharFrameGear.xml
